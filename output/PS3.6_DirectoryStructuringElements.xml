@@ -1,0 +1,21 @@
+<DicomDirectoryStructuringElements>
+<DicomDataAttrbute Tag="(0004,1130)" VR="CS" VM="1" Keyword="File​Set​ID" Name="File-set ID" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1141)" VR="CS" VM="1-8" Keyword="File​Set​Descriptor​File​ID" Name="File-set Descriptor File ID" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1142)" VR="CS" VM="1" Keyword="Specific​Character​Set​Of​File​Set​Descriptor​File" Name="Specific Character Set of File-set Descriptor File" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1200)" VR="UL" VM="1" Keyword="Offset​Of​The​First​Directory​Record​Of​The​Root​Directory​Entity" Name="Offset of the First Directory Record of the Root Directory Entity" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1202)" VR="UL" VM="1" Keyword="Offset​Of​The​Last​Directory​Record​Of​The​Root​Directory​Entity" Name="Offset of the Last Directory Record of the Root Directory Entity" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1212)" VR="US" VM="1" Keyword="File​Set​Consistency​Flag" Name="File-set Consistency Flag" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1220)" VR="SQ" VM="1" Keyword="Directory​Record​Sequence" Name="Directory Record Sequence" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1400)" VR="UL" VM="1" Keyword="Offset​Of​The​Next​Directory​Record" Name="Offset of the Next Directory Record" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1410)" VR="US" VM="1" Keyword="Record​In​Use​Flag" Name="Record In-use Flag" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1420)" VR="UL" VM="1" Keyword="Offset​Of​Referenced​Lower​Level​Directory​Entity" Name="Offset of Referenced Lower-Level Directory Entity" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1430)" VR="CS" VM="1" Keyword="Directory​Record​Type" Name="Directory Record Type" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1432)" VR="UI" VM="1" Keyword="Private​Record​UID" Name="Private Record UID" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1500)" VR="CS" VM="1-8" Keyword="Referenced​File​ID" Name="Referenced File ID" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1504)" VR="UL" VM="1" Keyword="MRDR​Directory​Record​Offset" Name="MRDR Directory Record Offset" Comment="RET"/>
+<DicomDataAttrbute Tag="(0004,1510)" VR="UI" VM="1" Keyword="Referenced​SOP​Class​UID​In​File" Name="Referenced SOP Class UID in File" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1511)" VR="UI" VM="1" Keyword="Referenced​SOP​Instance​UID​In​File" Name="Referenced SOP Instance UID in File" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1512)" VR="UI" VM="1" Keyword="Referenced​Transfer​Syntax​UID​In​File" Name="Referenced Transfer Syntax UID in File" Comment=""/>
+<DicomDataAttrbute Tag="(0004,151A)" VR="UI" VM="1-n" Keyword="Referenced​Related​General​SOP​Class​UID​In​File" Name="Referenced Related General SOP Class UID in File" Comment=""/>
+<DicomDataAttrbute Tag="(0004,1600)" VR="UL" VM="1" Keyword="Number​Of​References" Name="Number of References" Comment="RET"/>
+</DicomDirectoryStructuringElements>

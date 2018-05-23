@@ -1,0 +1,14 @@
+<DicomFileMetaElements>
+<DicomDataAttrbute Tag="(0002,0000)" VR="UL" VM="1" Keyword="File​Meta​Information​Group​Length" Name="File Meta Information Group Length" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0001)" VR="OB" VM="1" Keyword="File​Meta​Information​Version" Name="File Meta Information Version" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0002)" VR="UI" VM="1" Keyword="Media​Storage​SOP​Class​UID" Name="Media Storage SOP Class UID" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0003)" VR="UI" VM="1" Keyword="Media​Storage​SOP​Instance​UID" Name="Media Storage SOP Instance UID" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0010)" VR="UI" VM="1" Keyword="Transfer​Syntax​UID" Name="Transfer Syntax UID" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0012)" VR="UI" VM="1" Keyword="Implementation​Class​UID" Name="Implementation Class UID" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0013)" VR="SH" VM="1" Keyword="Implementation​Version​Name" Name="Implementation Version Name" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0016)" VR="AE" VM="1" Keyword="Source​Application​Entity​Title" Name="Source Application Entity Title" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0017)" VR="AE" VM="1" Keyword="Sending​Application​Entity​Title" Name="Sending Application Entity Title" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0018)" VR="AE" VM="1" Keyword="Receiving​Application​Entity​Title" Name="Receiving Application Entity Title" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0100)" VR="UI" VM="1" Keyword="Private​Information​Creator​UID" Name="Private Information Creator UID" Comment=""/>
+<DicomDataAttrbute Tag="(0002,0102)" VR="OB" VM="1" Keyword="Private​Information" Name="Private Information" Comment=""/>
+</DicomFileMetaElements>

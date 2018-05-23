@@ -4,7 +4,7 @@
 
 # DICOM Tribe
 
-XSL stylesheets to convert DICOM standard DocBook XML to formats useful for programmers.
+XSLT stylesheets to convert DICOM standard DocBook XML to formats useful for programmers.
 
 ## Introduction
 
