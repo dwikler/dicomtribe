@@ -1,9 +1,6 @@
 ![XSLT.1.0](./badges/XSLT-1.0-brightgreen.svg)
-<img src="./badges/XSLT-1.0-brightgreen.svg">
 ![standard.DICOM](./badges/standard-DICOM-lightgrey.svg)
-<img src="./badges/standard-DICOM-lightgrey.svg">
 ![license.apache-2.0](./badges/license-apache--2.0-blue.svg)
-<img src="./badges/license-apache--2.0-blue.svg">
 
 # DICOM Tribe
 
