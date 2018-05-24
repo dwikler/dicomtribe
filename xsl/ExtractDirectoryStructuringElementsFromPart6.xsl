@@ -59,7 +59,7 @@
     <xsl:template match="docbook:tbody/docbook:tr">
 
         <!--Write DICOM directory structure element information in XML according to PS3.19 Native DICOM model schema-->
-        <xsl:element name="DicomDataAttrbute">
+        <xsl:element name="DicomDataAttribute">
             <xsl:attribute name="Tag">
                 <xsl:value-of select="docbook:td[1]"/>
             </xsl:attribute>
