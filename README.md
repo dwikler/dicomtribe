@@ -1,6 +1,11 @@
-![XSLT.1.0](https://img.shields.io/badge/XSLT-1.0-brightgreen.svg)
+<!-- ![XSLT.1.0](https://img.shields.io/badge/XSLT-1.0-brightgreen.svg)
 ![standard.DICOM](https://img.shields.io/badge/standard-DICOM-lightgrey.svg)
 ![license.apache-2.0](https://img.shields.io/badge/license-apache--2.0-blue.svg)
+-->
+
+![XSLT.1.0](https://github.com/dwikler/dicomtribe/badges/XSLT-1.0-brightgreen.svg)
+![standard.DICOM](https://github.com/dwikler/dicomtribe/badges/standard-DICOM-lightgrey.svg)
+![license.apache-2.0](https://github.com/dwikler/dicomtribe/badges/license-apache--2.0-blue.svg)
 
 # DICOM Tribe
 
@@ -45,10 +50,8 @@ $ xsltproc -o output/PS3.6_DataElements.xml xsl/ExtractDataElementsFromPart6.xsl
 
 ### Documentation
 
-Link to wiki.
-Table of Contents
-1. Extract information from DocBook XML into Native DICOM model XML
-2. Convert DocBook XML information into Other formats
+[see Wiki](../../wiki)
+
  
 ## Authors
 
