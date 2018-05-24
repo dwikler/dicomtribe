@@ -1,8 +1,3 @@
-<!-- ![XSLT.1.0](https://img.shields.io/badge/XSLT-1.0-brightgreen.svg)
-![standard.DICOM](https://img.shields.io/badge/standard-DICOM-lightgrey.svg)
-![license.apache-2.0](https://img.shields.io/badge/license-apache--2.0-blue.svg)
--->
-
 ![XSLT.1.0](./badges/XSLT-1.0-brightgreen.svg)
 <img src="./badges/XSLT-1.0-brightgreen.svg">
 ![standard.DICOM](./badges/standard-DICOM-lightgrey.svg)
