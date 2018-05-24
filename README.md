@@ -3,9 +3,12 @@
 ![license.apache-2.0](https://img.shields.io/badge/license-apache--2.0-blue.svg)
 -->
 
-![XSLT.1.0](https://github.com/dwikler/dicomtribe/badges/XSLT-1.0-brightgreen.svg)
-![standard.DICOM](https://github.com/dwikler/dicomtribe/badges/standard-DICOM-lightgrey.svg)
-![license.apache-2.0](https://github.com/dwikler/dicomtribe/badges/license-apache--2.0-blue.svg)
+![XSLT.1.0](./badges/XSLT-1.0-brightgreen.svg)
+<img src="./badges/XSLT-1.0-brightgreen.svg">
+![standard.DICOM](./badges/standard-DICOM-lightgrey.svg)
+<img src="./badges/standard-DICOM-lightgrey.svg">
+![license.apache-2.0](./badges/license-apache--2.0-blue.svg)
+<img src="./badges/license-apache--2.0-blue.svg">
 
 # DICOM Tribe
 
